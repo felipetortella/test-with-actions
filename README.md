@@ -1,5 +1,7 @@
 <header>
 
+[![CI](https://github.com/felipetortella/test-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/felipetortella/test-with-actions/actions/workflows/ci.yml)
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.

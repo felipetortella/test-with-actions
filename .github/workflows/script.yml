@@ -22,7 +22,7 @@ jobs:
 #              project_id : 4,
 #            });
             github.rest.projects.createCard({
-              column_id: f75ad846,
+              column_id: "f75ad846",
               content_id: context.payload.issue.id,
               content_type: "Issue"
             });

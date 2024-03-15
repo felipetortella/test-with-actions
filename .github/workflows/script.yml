@@ -18,7 +18,7 @@ jobs:
               repo: context.repo.repo,
               body: "🎉 You've created this issue comment using GitHub Script!!!"
             })
-            ooctokit.rest.projects.get({
+            github.rest.projects.get({
               project_id : 4,
             });
 #            github.rest.projects.createCard({
